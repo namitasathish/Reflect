@@ -20,10 +20,8 @@ Entries are shown in a clean, card-style format.
 
 
 
-- **Support Resources** : If the last 3 entries all have negative mood scores, the app displays an emotional support panel with:
+- **Support Resources** : If the last 3 entries all have negative mood scores, the app displays an emotional support panel with, Mental health helpline numbers,
+Guided meditation links, Therapy and self-help resource
 
-- Mental health helpline numbers
 
-- Guided meditation links
 
-- Therapy and self-help resource
