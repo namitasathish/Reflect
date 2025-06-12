@@ -23,5 +23,16 @@ Entries are shown in a clean, card-style format.
 - **Support Resources** : If the last 3 entries all have negative mood scores, the app displays an emotional support panel with, Mental health helpline numbers,
 Guided meditation links, Therapy and self-help resource
 
+##  How It Works
+
+User inputs a journal entry via a text area.
+The input is cleaned and vectorized using a TF-IDF vectorizer.
+A pre-trained ML classifier (e.g., Logistic Regression or SVM) predicts the emotion label.
+A score is assigned based on a predefined score map (joy = 80, anger = -80, etc.).
+The entry is stored in Streamlit session state and shown immediately in:
+Dashboard (for mood score trends)
+History tab (for entry-by-entry reflection)
+If the last 3 entries are negatively scored, a support panel is shown automatically.
+
 
 
