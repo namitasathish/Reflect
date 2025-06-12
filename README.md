@@ -25,7 +25,7 @@ Guided meditation links, Therapy and self-help resource
 
 ##  How It Works
 
-User inputs a journal entry via a text area.
+- User inputs a journal entry via a text area.
 - The input is cleaned and vectorized using a TF-IDF vectorizer.
 - A pre-trained ML classifier (here, Logistic Regression) predicts the emotion label.
 - A score is assigned based on a predefined score map (joy = 80, anger = -80, etc.)
