@@ -33,5 +33,7 @@ Guided meditation links, Therapy and self-help resource
 History tab (for entry-by-entry reflection)
 - If the last 3 entries are negatively scored, a support panel is shown automatically.
 
+## Peek into the Webapp
+<img src="reflect1.png" width="650" height="500">
 
 
