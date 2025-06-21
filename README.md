@@ -34,6 +34,6 @@ History tab (for entry-by-entry reflection)
 - If the last 3 entries are negatively scored, a support panel is shown automatically.
 
 ## Peek into the Webapp
-<img src="reflect1.png" width="650" height="500">
+<img src="reflect1.png" width="750" height="500">
 
 
