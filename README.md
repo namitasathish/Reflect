@@ -1,4 +1,4 @@
-# Reflect: Mood Journal
+# Reflect- Mood Journal
 Reflect is a personal mood journal web app built using Streamlit that helps users track, understand, and reflect on their emotional health over time. 
 By analyzing journal entries with a pre trained ML model, the app identifies emotional tone, assigns a mood score, and visualizes trends creating a personal space for emotional self awareness and wellness tracking.
 
